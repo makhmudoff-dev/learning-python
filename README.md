@@ -1,1 +1,1 @@
-# learning-python
+secrets for learning python programming language.
